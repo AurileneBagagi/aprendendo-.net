@@ -5,12 +5,13 @@ Console.WriteLine();
 DateTime dataAtual = DateTime.Now;
 Console.WriteLine(dataAtual);
 
-//criar uma data especifica 
-DateTime dataesp = new DateTime(2023,02,18);
-Console.WriteLine(dataesp);
+//Extrair informações 
+Console.WriteLine(dataAtual.Year);
+Console.WriteLine(dataAtual.DayOfWeek);
+Console.WriteLine(dataAtual.ToLongDateString());
 
-//definindo as horas 
-DateTime dataesph = new DateTime(2023,02,18,10,5,55);
-Console.WriteLine(dataesph);
-
+//Adicionando valores na impressão 
+Console.WriteLine(dataAtual.AddDays(1));
+Console.WriteLine(dataAtual.AddHours(10));
+Console.WriteLine(dataAtual);
 Console.ReadKey();

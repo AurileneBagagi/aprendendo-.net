@@ -1,12 +1,15 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("## Nullable Types ##\n");
+Console.WriteLine("##Leitura de Nullable Types ##\n");
 //=============================== COMANDOS INTERESSANTES =======================================
-Nullable<int> i = null;
-Nullable<float> u = null;
-Nullable<bool> d = null;
+int? i = 100;
 
-Console.WriteLine(i);
-Console.WriteLine(u);
-Console.WriteLine(d);
+if(i.HasValue)
+{
+    Console.WriteLine($"i = {i.Value}");
+}
+else
+{
+    Console.WriteLine("i não possui um valor");
+}
 
 Console.ReadKey(); 

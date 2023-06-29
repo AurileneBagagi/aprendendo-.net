@@ -1,28 +1,41 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Atribuindo valores para bool");
+Console.WriteLine("Atribuindo valores para do tipo string, object e dynamic");
 Console.WriteLine();
 //=============================== COMANDOS INTERESSANTES =======================================
-bool ativo = true;
-Boolean inativo = false; // é o mesmo que System.Boolean
+string nome = "curso C#";
+String titulo = "Curso C# Essencial";
 
-Console.WriteLine(ativo);
-Console.WriteLine(inativo);
+Console.WriteLine(nome);
+Console.WriteLine(titulo);
 
-Console.ReadLine(); //Matem o terinal aberto até receber um valor
+string valor = "Isto é uma string";
 
-Console.WriteLine("Atribuindo valores para bool por meio de operações");
-Console.WriteLine(10!=5);
-Console.WriteLine(1>=2);
+Console.Write(valor);
 
-byte x = 10;
-byte y = 10;
-Console.WriteLine(x>=y);
+Console.ReadLine();
 
-Console.ReadLine(); //Matem o terinal aberto até receber um valor
+object nota = 10;
+object valor1 = 8.55f;
+object nome1 = "Maria";
+object ativa = true;
+object letra = "A";
 
-Console.WriteLine("Atribuindo valores para Char");
-
-char letra = 'A';
+Console.WriteLine(nota);
+Console.WriteLine(valor1);
+Console.WriteLine(nome1);
+Console.WriteLine(ativa);
 Console.WriteLine(letra);
-char letra2 = '\u0041';
-Console.WriteLine(letra2);
+
+dynamic nota1 = 11;
+dynamic valor2 = 3.55f;
+dynamic nome2 = "Mar";
+dynamic ativa1 = false;
+dynamic letra1 = "B";
+
+Console.WriteLine(nota1);
+Console.WriteLine(valor2);
+Console.WriteLine(nome2);
+Console.WriteLine(ativa1);
+Console.WriteLine(letra1);
+
+Console.ReadLine();

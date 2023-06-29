@@ -1,16 +1,26 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Declarando Variaveis Numericas");
+Console.WriteLine("Declarando Variaveis Numericas flutuantes");
+Console.WriteLine();
 //=============================== COMANDOS INTERESSANTES =======================================
-Console.ReadKey(); //Matem o terinal aberto
-const byte valor = 123;
-sbyte valor2 = -123;
-int valor3 = -12345677;
-uint valor4 = 12345677;
-long valor5 = -123456778901;
+double valor = 1.23;
+float valor2 = 1.23F;
+decimal valor3; 
+valor3 = 1.23m;
 
 Console.WriteLine(valor);
 Console.WriteLine(valor2);
 Console.WriteLine(valor3);
-Console.WriteLine(valor4);
-Console.WriteLine(valor5);
 
+Console.ReadLine(); //Matem o terinal aberto até receber um valor
+
+Console.WriteLine("Comparando a precisão de float, double e decimal");
+
+float x = 1f/3f;
+double y = 1d/3d;
+decimal z = 1m/3m;
+
+Console.WriteLine(x);
+Console.WriteLine(y);
+Console.WriteLine(z);
+
+Console.ReadLine(); //Matem o terinal aberto até receber um valor

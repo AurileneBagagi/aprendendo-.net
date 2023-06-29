@@ -1,26 +1,28 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Declarando Variaveis Numericas flutuantes");
+Console.WriteLine("Atribuindo valores para bool");
 Console.WriteLine();
 //=============================== COMANDOS INTERESSANTES =======================================
-double valor = 1.23;
-float valor2 = 1.23F;
-decimal valor3; 
-valor3 = 1.23m;
+bool ativo = true;
+Boolean inativo = false; // é o mesmo que System.Boolean
 
-Console.WriteLine(valor);
-Console.WriteLine(valor2);
-Console.WriteLine(valor3);
+Console.WriteLine(ativo);
+Console.WriteLine(inativo);
 
 Console.ReadLine(); //Matem o terinal aberto até receber um valor
 
-Console.WriteLine("Comparando a precisão de float, double e decimal");
+Console.WriteLine("Atribuindo valores para bool por meio de operações");
+Console.WriteLine(10!=5);
+Console.WriteLine(1>=2);
 
-float x = 1f/3f;
-double y = 1d/3d;
-decimal z = 1m/3m;
-
-Console.WriteLine(x);
-Console.WriteLine(y);
-Console.WriteLine(z);
+byte x = 10;
+byte y = 10;
+Console.WriteLine(x>=y);
 
 Console.ReadLine(); //Matem o terinal aberto até receber um valor
+
+Console.WriteLine("Atribuindo valores para Char");
+
+char letra = 'A';
+Console.WriteLine(letra);
+char letra2 = '\u0041';
+Console.WriteLine(letra2);

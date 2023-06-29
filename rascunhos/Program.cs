@@ -1,17 +1,12 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("Atribuindo valores de data");
-Console.WriteLine();
+Console.WriteLine("## Nullable Types ##\n");
 //=============================== COMANDOS INTERESSANTES =======================================
-DateTime dataAtual = DateTime.Now;
-Console.WriteLine(dataAtual);
+Nullable<int> i = null;
+Nullable<float> u = null;
+Nullable<bool> d = null;
 
-//Extrair informações 
-Console.WriteLine(dataAtual.Year);
-Console.WriteLine(dataAtual.DayOfWeek);
-Console.WriteLine(dataAtual.ToLongDateString());
+Console.WriteLine(i);
+Console.WriteLine(u);
+Console.WriteLine(d);
 
-//Adicionando valores na impressão 
-Console.WriteLine(dataAtual.AddDays(1));
-Console.WriteLine(dataAtual.AddHours(10));
-Console.WriteLine(dataAtual);
-Console.ReadKey();
+Console.ReadKey(); 

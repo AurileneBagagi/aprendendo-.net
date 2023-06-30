@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\bin\Debug\net7.0\exerciciosfase1.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\bin\Debug\net7.0\exerciciosfase1.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\bin\Debug\net7.0\exerciciosfase1.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\bin\Debug\net7.0\exerciciosfase1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\bin\Debug\net7.0\exerciciosfase1.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\refint\exerciciosfase1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\exerciciosfase1.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exerciciosfase1\obj\Debug\net7.0\ref\exerciciosfase1.dll

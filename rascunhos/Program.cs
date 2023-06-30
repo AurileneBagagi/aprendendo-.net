@@ -1,11 +1,8 @@
 ﻿// See https://aka.ms/new-console-template for more information
-Console.WriteLine("##Formatando a Saida de  dados ##\n");
+Console.WriteLine("## Entrada de Dados ##\n");
 //=============================== COMANDOS INTERESSANTES =======================================
-int idade = 25;
-string nome = "Maria";
-Console.WriteLine("---------------- Concatenação -----------------");
-Console.WriteLine(nome+" tem "+idade+" anos ");
-Console.WriteLine("---------------- Interpolação -----------------");
-Console.WriteLine($"{nome} tem {idade} anos");
-Console.WriteLine("---------------- Place Holders -----------------");
-Console.WriteLine("{0} tem {1} anos", nome, idade);
+Console.WriteLine("Informe o seu nome");
+string nome  = Console.ReadLine();
+Console.WriteLine("Informe a sua idade");
+int idade = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"\n O seu nome é {nome} e você tem {idade} anos");

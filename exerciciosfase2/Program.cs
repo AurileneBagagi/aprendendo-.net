@@ -1,4 +1,4 @@
-﻿Console.WriteLine(" ============== Execicios Fase 2 - Fundamentos ============\n");
+﻿Console.WriteLine(" ============== Execicios Fase 2 - Fundamentos ============");
 //OBC.: as variaveis com C no final indica o correto do exercicio
 /*
 // ------------------------------------------
@@ -16,11 +16,11 @@ Console.WriteLine($"Aluno: {nome}\nIdade: {idade}\nNota {nota}");
 // ------------------------------------------
 Console.WriteLine("\nQuestão 5");
 char letra1, letra2, letra3;
-Console.WriteLine("Digite a primeira letra: ");
+Console.Write("Digite a primeira letra: ");
 letra1 = Convert.ToChar(Console.ReadLine());
-Console.WriteLine("Digite a segunda letra: ");
+Console.Write("Digite a segunda letra: ");
 letra2 = Convert.ToChar(Console.ReadLine());
-Console.WriteLine("Digite a terceira letra: ");
+Console.Write("Digite a terceira letra: ");
 letra3 = Convert.ToChar(Console.ReadLine());
 // com concatenação
 Console.WriteLine("letra 3: "+letra3+", letra 2: "+letra2+ ", letra 1: "+letra1);
@@ -47,7 +47,7 @@ int c= -13;
 double delta =  Math.Pow(b, 2) - 4*a*c;
 double x1 = (-b+Math.Sqrt(delta))/2*a;
 double x2 = (-b-Math.Sqrt(delta))/2*a;
-Console.WriteLine($"resultado de x1={x1} e x2={x2}");*/
+Console.WriteLine($"resultado de x1={x1} e x2={x2}");
 // ------------------------------------------
 Console.WriteLine("\nQuestão 9");
 Console.WriteLine("Digite o nome: ");
@@ -56,5 +56,42 @@ Console.WriteLine("Digite a senha: ");
 int senha = Convert.ToInt32(Console.ReadLine());
 string resultados  = (nome == "admin" || nome == "maria") && (senha == 123) ? "Login feito com sucesso": "Login Invalido";
 Console.WriteLine(resultados);
-
-
+// ------------------------------------------
+Console.WriteLine("\nQuestão 11");
+Console.WriteLine("Digite o numero x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine("Digite o numero y: ");
+int y = Convert.ToInt32(Console.ReadLine());
+string resultado1 = (x%2 == 0) ? "X é par": "X é impar";
+string resultado2 = (y%2 == 0) ? "Y é par": "Y é impar";
+Console.WriteLine(resultado1 + " e " + resultado2); 
+// ------------------------------------------
+Console.WriteLine("\nQuestão 12");
+Console.WriteLine("Digite o numero x: ");
+int x = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"PI*(x^2) = {Math.PI*(Math.Pow(x,2))}");
+// ------------------------------------------ 
+Console.WriteLine("\nQuestão 13");
+int y = 5;
+y = (y++)+y+(++y);
+Console.WriteLine(y);
+// ------------------------------------------ 
+Console.WriteLine("\nQuestão 14");
+Console.WriteLine("Digite o graus celsius: ");
+int c = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine($"Temperatura em Kelvin = {c+273}");
+Console.WriteLine($"Temperatura em Farhenheit = {((c*9)/5)+32}");*/
+// ------------------------------------------ 
+Console.WriteLine("Saciando algumas dúvidas");
+var nome = "Nome";
+Console.WriteLine(nome);
+string resultado = 100.ToString();// convertendo o numero 100 em string
+Console.WriteLine(resultado);
+Console.WriteLine(nome.GetType());
+var numero = -12.0;
+Console.WriteLine(numero);
+Console.WriteLine(numero.GetType());
+object o= 12.45m;
+Console.WriteLine(o.GetType());
+decimal valor = (decimal) 10.99f;
+Console.WriteLine(valor.GetType());

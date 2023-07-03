@@ -45,14 +45,14 @@ int a = 1;
 int b= 12;
 int c= -13;
 double delta =  Math.Pow(b, 2) - 4*a*c;
-double x1 = (-b+Math.Sqrt(delta))/2*a;
-double x2 = (-b-Math.Sqrt(delta))/2*a;
+double x1 = ((-b)+Math.Sqrt(delta))/2*a;
+double x2 = ((-b)-Math.Sqrt(delta))/2*a;
 Console.WriteLine($"resultado de x1={x1} e x2={x2}");
 // ------------------------------------------
 Console.WriteLine("\nQuestão 9");
-Console.WriteLine("Digite o nome: ");
-string? nome = Convert.ToString(Console.ReadLine());
-Console.WriteLine("Digite a senha: ");
+Console.Write("Digite o nome: ");
+string nome = Convert.ToString(Console.ReadLine());
+Console.Write("Digite a senha: ");
 int senha = Convert.ToInt32(Console.ReadLine());
 string resultados  = (nome == "admin" || nome == "maria") && (senha == 123) ? "Login feito com sucesso": "Login Invalido";
 Console.WriteLine(resultados);
@@ -67,9 +67,16 @@ string resultado2 = (y%2 == 0) ? "Y é par": "Y é impar";
 Console.WriteLine(resultado1 + " e " + resultado2); 
 // ------------------------------------------
 Console.WriteLine("\nQuestão 12");
-Console.WriteLine("Digite o numero x: ");
+Console.Write("Digite o numero x: ");
 int x = Convert.ToInt32(Console.ReadLine());
-Console.WriteLine($"PI*(x^2) = {Math.PI*(Math.Pow(x,2))}");
+Console.WriteLine((-6)+x*5);
+Console.WriteLine((13-2)*x);
+Console.WriteLine((x+-2)*(20/x));
+Console.WriteLine((12+x)*(x-4));
+double resultado5 = 3*Math.Pow(x,2)+x+10;
+double area = Math.PI * Math.Pow(2,2);
+Console.WriteLine(resultado5);
+Console.WriteLine(area);
 // ------------------------------------------ 
 Console.WriteLine("\nQuestão 13");
 int y = 5;
@@ -80,7 +87,7 @@ Console.WriteLine("\nQuestão 14");
 Console.WriteLine("Digite o graus celsius: ");
 int c = Convert.ToInt32(Console.ReadLine());
 Console.WriteLine($"Temperatura em Kelvin = {c+273}");
-Console.WriteLine($"Temperatura em Farhenheit = {((c*9)/5)+32}");*/
+Console.WriteLine($"Temperatura em Farhenheit = {((c*9)/5)+32}");
 // ------------------------------------------ 
 Console.WriteLine("Saciando algumas dúvidas");
 var nome = "Nome";
@@ -94,4 +101,8 @@ Console.WriteLine(numero.GetType());
 object o= 12.45m;
 Console.WriteLine(o.GetType());
 decimal valor = (decimal) 10.99f;
-Console.WriteLine(valor.GetType());
+Console.WriteLine(valor.GetType()); */
+// ------------------------------------------ 
+Console.WriteLine("\nQuestão 15");
+var numero = 5;
+Console.WriteLine(numero++);

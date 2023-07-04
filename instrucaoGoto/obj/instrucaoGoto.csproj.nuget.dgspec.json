@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoSwitch\\instrucaoSwitch.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoGoto\\instrucaoGoto.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoSwitch\\instrucaoSwitch.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoGoto\\instrucaoGoto.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoSwitch\\instrucaoSwitch.csproj",
-        "projectName": "instrucaoSwitch",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoSwitch\\instrucaoSwitch.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoGoto\\instrucaoGoto.csproj",
+        "projectName": "instrucaoGoto",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoGoto\\instrucaoGoto.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoSwitch\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoGoto\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

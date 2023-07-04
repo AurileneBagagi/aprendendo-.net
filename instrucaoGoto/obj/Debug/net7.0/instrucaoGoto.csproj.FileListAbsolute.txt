@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\bin\Debug\net7.0\instrucaoGoto.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\bin\Debug\net7.0\instrucaoGoto.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\bin\Debug\net7.0\instrucaoGoto.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\bin\Debug\net7.0\instrucaoGoto.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\bin\Debug\net7.0\instrucaoGoto.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\refint\instrucaoGoto.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\instrucaoGoto.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoGoto\obj\Debug\net7.0\ref\instrucaoGoto.dll

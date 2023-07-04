@@ -1,15 +1,21 @@
-﻿Console.WriteLine("=============== Instrução de Repetição While =================\n");
+﻿Console.WriteLine("=============== Instrução de Repetição While =================");
+Console.WriteLine("Tabuada de um número");
 
-int i = 1;
-while (i <=10)
+int numero;
+int contador =0;
+Console.Write("Digite um número maior que zero: ");
+numero = Convert.ToInt32(Console.ReadLine()); 
+if (numero>0)
 {
-    Console.WriteLine($"i={i}");
-    i++;        
+    //loop
+    Console.WriteLine($"Tabuada de {numero}");
+    while(contador <11)
+    {
+        Console.WriteLine($"{numero} * {contador} = {numero*contador}");
+        contador++;
+    }
 }
-Console.WriteLine("=============== Instrução de Repetição While =================\n");
-int m = 10;
-while (m > 0)
+else
 {
-    Console.WriteLine($"m={m}");
-    m--;        
+    Console.WriteLine("Número deve ser maior que zero!!");
 }

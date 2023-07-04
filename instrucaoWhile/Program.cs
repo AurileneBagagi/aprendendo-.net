@@ -1,21 +1,37 @@
-﻿Console.WriteLine("=============== Instrução de Repetição While =================");
-Console.WriteLine("Tabuada de um número");
+﻿Console.WriteLine("=============== Instrução de Repetição While True =================");
+Console.WriteLine("Impar ou par");
 
-int numero;
-int contador =0;
-Console.Write("Digite um número maior que zero: ");
-numero = Convert.ToInt32(Console.ReadLine()); 
-if (numero>0)
+while(true)
 {
-    //loop
-    Console.WriteLine($"Tabuada de {numero}");
-    while(contador <11)
+    Console.Write("\nInforme um numero inteiro (Diigite 0 para sair): ");
+    int numero = Convert.ToInt32(Console.ReadLine());
+
+    if (numero == 0)
     {
-        Console.WriteLine($"{numero} * {contador} = {numero*contador}");
-        contador++;
+        break;
     }
+    if (numero%2==0)
+        Console.WriteLine($"{numero} é par");
+    else
+     Console.WriteLine($"{numero} é impar");
+    
 }
-else
+
+Console.WriteLine("\nFim do processamento...");
+
+Console.WriteLine("=============== Instrução de Repetição While Aninhado =================");
+
+int x = 0;
+while (x<5)
 {
-    Console.WriteLine("Número deve ser maior que zero!!");
+    int y=0;
+    while (y<5)
+    {
+        Console.Write($"({x},{y}) ");
+        y++;
+    }
+    x++;
+    Console.WriteLine();
 }
+
+Console.WriteLine("\nFim do processamento...");

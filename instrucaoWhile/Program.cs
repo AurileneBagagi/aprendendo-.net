@@ -1,37 +1,39 @@
-﻿Console.WriteLine("=============== Instrução de Repetição While True =================");
-Console.WriteLine("Impar ou par");
+﻿Console.WriteLine("=============== Instrução de Repetição do-While =================");
 
-while(true)
+var i=1;
+do
 {
-    Console.Write("\nInforme um numero inteiro (Diigite 0 para sair): ");
-    int numero = Convert.ToInt32(Console.ReadLine());
-
-    if (numero == 0)
-    {
-        break;
-    }
-    if (numero%2==0)
-        Console.WriteLine($"{numero} é par");
-    else
-     Console.WriteLine($"{numero} é impar");
-    
+    Console.WriteLine($"i={i}");
+    i++;
 }
+while (i<=10);
+Console.WriteLine("=============== Instrução de Repetição do-While BreaK =================");
 
-Console.WriteLine("\nFim do processamento...");
+var a=1;
+do
+{
+    Console.WriteLine($"a={a}");
+    a++;
+    if (a>10)
+        break;
+}
+while (true);
 
-Console.WriteLine("=============== Instrução de Repetição While Aninhado =================");
+Console.WriteLine("=============== Instrução de Repetição do-While Aninhado =================");
 
-int x = 0;
-while (x<5)
+int x=0;
+do
 {
     int y=0;
-    while (y<5)
+    do
     {
-        Console.Write($"({x},{y}) ");
+        Console.Write($"({x},{y})");
         y++;
     }
+    while (y<5);
     x++;
     Console.WriteLine();
 }
+while (x<5);
 
 Console.WriteLine("\nFim do processamento...");

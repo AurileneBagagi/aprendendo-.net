@@ -1,25 +1,38 @@
 ﻿Console.WriteLine("=============== Instrução Switch =================");
 Console.WriteLine("Dias dos meses do ano");
 
-Console.Write("Informe o nome do mês: ");
-var mes = Console.ReadLine().ToLower();
+int cargo = 0; 
+int funcao = 0;
+Console.WriteLine("Você é Gerente(1) ou Programador(2)");
+cargo = Convert.ToInt32(Console.ReadLine());
 
-switch (mes)
+if (cargo ==2)
 {
-    case "janeiro":
-    case "março":
-    case "maio":
-    case "julho":
-    case "agosto":
-    case "outubro":
-    case "dezembro":
-        Console.WriteLine("Este mês tem 31 dias");
+    Console.WriteLine("Você é Junior(1) ou Senior(2)");
+    funcao = Convert.ToInt32(Console.ReadLine());
+}
+
+switch (cargo)
+{
+    case 1:
+        Console.WriteLine("\nBem vindo Gerente");
         break;
-    case "fevereiro":
-        Console.WriteLine("Este mês tem 28 ou 29 dias");
+    case 2:
+        Console.WriteLine("\nBem vindo Programador ");
+        switch (funcao)
+        {
+                case 1:
+                    Console.WriteLine("\nVocê é junior");
+                    break;
+                case 2:
+                    Console.WriteLine("\nVocê é senior");
+                    break;
+
+        }
         break;
     default:
-        Console.WriteLine("Este mês tem 30 dias");
-        break;      
+        Console.WriteLine("\nNão conseguimos te identificar");
+        break;
 }
+
 Console.WriteLine("\nFim do processamento...");

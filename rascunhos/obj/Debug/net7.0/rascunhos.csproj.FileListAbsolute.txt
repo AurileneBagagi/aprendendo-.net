@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\bin\Debug\net7.0\rascunhos.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\bin\Debug\net7.0\rascunhos.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\bin\Debug\net7.0\rascunhos.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\bin\Debug\net7.0\rascunhos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\bin\Debug\net7.0\rascunhos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\refint\rascunhos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\rascunhos.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\rascunhos\obj\Debug\net7.0\ref\rascunhos.dll

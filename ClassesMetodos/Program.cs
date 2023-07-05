@@ -1,6 +1,8 @@
 ﻿Console.WriteLine("## Classes e Objetos ##\n");
+//para declarar pode usar a sintaxe do nome da classe ou "var", ex.: var p1 = new Pessoa();
+//para declarar usando a sintaxe do nome da classe pode usar apenas o new, ex.: Pessoa p1 = new()
 
-Pessoa p1 = new();
+Pessoa p1 = new Pessoa();
 
 p1.nome = "Maria";
 p1.idade = 25;

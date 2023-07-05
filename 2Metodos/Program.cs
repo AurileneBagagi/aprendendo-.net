@@ -13,9 +13,9 @@ class MinhaClasse
     public void Saudacao()
     {
         Console.WriteLine("Bem-Vindo");
-        ExibirDataAtual();
+        ExibirDataAtual(); //chamando um metódo de outro método
     }
 
-    public void ExibirDataAtual() =>
+    public void ExibirDataAtual() => //Quando tiver apenas um método.
         Console.WriteLine(DateTime.Now.ToShortDateString());
 }

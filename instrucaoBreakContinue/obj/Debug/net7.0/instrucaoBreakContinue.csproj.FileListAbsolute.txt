@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\bin\Debug\net7.0\instrucaoBreakContinue.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\bin\Debug\net7.0\instrucaoBreakContinue.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\bin\Debug\net7.0\instrucaoBreakContinue.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\bin\Debug\net7.0\instrucaoBreakContinue.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\bin\Debug\net7.0\instrucaoBreakContinue.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\refint\instrucaoBreakContinue.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\instrucaoBreakContinue.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoBreakContinue\obj\Debug\net7.0\ref\instrucaoBreakContinue.dll

@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\bin\Debug\net7.0\instrucaoSwitch.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\bin\Debug\net7.0\instrucaoSwitch.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\bin\Debug\net7.0\instrucaoSwitch.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\bin\Debug\net7.0\instrucaoSwitch.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\bin\Debug\net7.0\instrucaoSwitch.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\refint\instrucaoSwitch.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\instrucaoSwitch.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoSwitch\obj\Debug\net7.0\ref\instrucaoSwitch.dll

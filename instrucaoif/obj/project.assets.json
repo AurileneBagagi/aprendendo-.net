@@ -13,11 +13,11 @@
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\rascunhos\\rascunhos.csproj",
-      "projectName": "rascunhos",
-      "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\rascunhos\\rascunhos.csproj",
+      "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoif\\instrucaoif.csproj",
+      "projectName": "instrucaoif",
+      "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoif\\instrucaoif.csproj",
       "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-      "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\rascunhos\\obj\\",
+      "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\instrucaoif\\obj\\",
       "projectStyle": "PackageReference",
       "configFilePaths": [
         "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

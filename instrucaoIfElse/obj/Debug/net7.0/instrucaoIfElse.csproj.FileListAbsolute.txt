@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\bin\Debug\net7.0\instrucaoIfElse.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\bin\Debug\net7.0\instrucaoIfElse.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\bin\Debug\net7.0\instrucaoIfElse.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\bin\Debug\net7.0\instrucaoIfElse.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\bin\Debug\net7.0\instrucaoIfElse.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\refint\instrucaoIfElse.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\instrucaoIfElse.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\instrucaoIfElse\obj\Debug\net7.0\ref\instrucaoIfElse.dll

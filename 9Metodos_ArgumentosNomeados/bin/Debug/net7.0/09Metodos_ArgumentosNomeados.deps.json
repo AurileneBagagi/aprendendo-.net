@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "09Metodos_ArgumentosNomeados/1.0.0": {
+        "runtime": {
+          "09Metodos_ArgumentosNomeados.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "09Metodos_ArgumentosNomeados/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

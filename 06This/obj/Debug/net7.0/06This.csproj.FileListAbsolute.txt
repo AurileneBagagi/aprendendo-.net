@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\bin\Debug\net7.0\06This.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\bin\Debug\net7.0\06This.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\bin\Debug\net7.0\06This.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\bin\Debug\net7.0\06This.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\bin\Debug\net7.0\06This.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\refint\06This.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\06This.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\06This\obj\Debug\net7.0\ref\06This.dll

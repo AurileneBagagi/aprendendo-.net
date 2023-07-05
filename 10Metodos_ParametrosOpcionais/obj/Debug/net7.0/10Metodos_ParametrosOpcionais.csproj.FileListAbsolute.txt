@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\bin\Debug\net7.0\10Metodos_ParametrosOpcionais.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\refint\10Metodos_ParametrosOpcionais.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\10Metodos_ParametrosOpcionais.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\10Metodos_ParametrosOpcionais\obj\Debug\net7.0\ref\10Metodos_ParametrosOpcionais.dll

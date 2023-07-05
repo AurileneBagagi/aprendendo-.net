@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj",
         "projectName": "08MetodosComRetorno",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\08MetodosComRetorno.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8MetodosComRetorno\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

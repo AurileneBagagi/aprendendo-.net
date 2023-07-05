@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\bin\Debug\net7.0\14MetodosEstaticos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\refint\14MetodosEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\14MetodosEstaticos.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14MetodosEstaticos\obj\Debug\net7.0\ref\14MetodosEstaticos.dll

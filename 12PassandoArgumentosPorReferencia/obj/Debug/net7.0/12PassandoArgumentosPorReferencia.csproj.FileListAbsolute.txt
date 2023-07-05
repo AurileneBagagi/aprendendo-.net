@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\bin\Debug\net7.0\12PassandoArgumentosPorReferencia.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\refint\12PassandoArgumentosPorReferencia.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\12PassandoArgumentosPorReferencia.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\12PassandoArgumentosPorReferencia\obj\Debug\net7.0\ref\12PassandoArgumentosPorReferencia.dll

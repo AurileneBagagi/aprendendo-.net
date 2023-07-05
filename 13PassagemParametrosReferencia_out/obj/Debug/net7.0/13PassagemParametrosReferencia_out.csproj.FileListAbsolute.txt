@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\bin\Debug\net7.0\13PassagemParametrosReferencia_out.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\bin\Debug\net7.0\13PassagemParametrosReferencia_out.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\bin\Debug\net7.0\13PassagemParametrosReferencia_out.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\bin\Debug\net7.0\13PassagemParametrosReferencia_out.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\bin\Debug\net7.0\13PassagemParametrosReferencia_out.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\refint\13PassagemParametrosReferencia_out.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\13PassagemParametrosReferencia_out.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\13PassagemParametrosReferencia_out\obj\Debug\net7.0\ref\13PassagemParametrosReferencia_out.dll

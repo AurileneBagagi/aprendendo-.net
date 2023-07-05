@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\bin\Debug\net7.0\20TratamentoErros.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\refint\20TratamentoErros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\20TratamentoErros.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\20TratamentoErros\obj\Debug\net7.0\ref\20TratamentoErros.dll

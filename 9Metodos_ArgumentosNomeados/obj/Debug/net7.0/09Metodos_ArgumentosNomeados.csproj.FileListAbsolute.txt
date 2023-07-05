@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\bin\Debug\net7.0\09Metodos_ArgumentosNomeados.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\bin\Debug\net7.0\09Metodos_ArgumentosNomeados.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\bin\Debug\net7.0\09Metodos_ArgumentosNomeados.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\bin\Debug\net7.0\09Metodos_ArgumentosNomeados.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\bin\Debug\net7.0\09Metodos_ArgumentosNomeados.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\refint\09Metodos_ArgumentosNomeados.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\09Metodos_ArgumentosNomeados.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\9Metodos_ArgumentosNomeados\obj\Debug\net7.0\ref\09Metodos_ArgumentosNomeados.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj",
         "projectName": "12PassandoArgumentosPorReferencia",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\12PassandoArgumentosPorReferencia.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12PassandoArgumentosPorReferencia\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

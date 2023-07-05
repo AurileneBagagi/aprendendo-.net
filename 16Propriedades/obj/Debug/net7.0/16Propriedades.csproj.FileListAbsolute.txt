@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\bin\Debug\net7.0\16Propriedades.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\bin\Debug\net7.0\16Propriedades.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\bin\Debug\net7.0\16Propriedades.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\bin\Debug\net7.0\16Propriedades.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\bin\Debug\net7.0\16Propriedades.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\refint\16Propriedades.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\16Propriedades.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16Propriedades\obj\Debug\net7.0\ref\16Propriedades.dll

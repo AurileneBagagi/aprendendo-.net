@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\bin\Debug\net7.0\15CamposEstaticos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\refint\15CamposEstaticos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\15CamposEstaticos.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15CamposEstaticos\obj\Debug\net7.0\ref\15CamposEstaticos.dll

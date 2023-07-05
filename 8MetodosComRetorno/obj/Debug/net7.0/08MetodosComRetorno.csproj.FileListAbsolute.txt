@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\bin\Debug\net7.0\08MetodosComRetorno.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\bin\Debug\net7.0\08MetodosComRetorno.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\bin\Debug\net7.0\08MetodosComRetorno.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\bin\Debug\net7.0\08MetodosComRetorno.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\bin\Debug\net7.0\08MetodosComRetorno.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\refint\08MetodosComRetorno.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\08MetodosComRetorno.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\8MetodosComRetorno\obj\Debug\net7.0\ref\08MetodosComRetorno.dll

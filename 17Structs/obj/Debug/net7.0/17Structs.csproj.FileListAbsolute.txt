@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\bin\Debug\net7.0\17Structs.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\bin\Debug\net7.0\17Structs.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\bin\Debug\net7.0\17Structs.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\bin\Debug\net7.0\17Structs.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\bin\Debug\net7.0\17Structs.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\refint\17Structs.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\17Structs.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\17Structs\obj\Debug\net7.0\ref\17Structs.dll

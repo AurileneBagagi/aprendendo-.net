@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\bin\Debug\net7.0\19ModificadoresAcesso.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\bin\Debug\net7.0\19ModificadoresAcesso.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\bin\Debug\net7.0\19ModificadoresAcesso.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\bin\Debug\net7.0\19ModificadoresAcesso.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\bin\Debug\net7.0\19ModificadoresAcesso.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\refint\19ModificadoresAcesso.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\19ModificadoresAcesso.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\19ModificadoresAcesso\obj\Debug\net7.0\ref\19ModificadoresAcesso.dll

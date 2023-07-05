@@ -3,3 +3,13 @@ C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debu
 C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.AssemblyInfoInputs.cache
 C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.AssemblyInfo.cs
 C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\bin\Debug\net7.0\05Construtores.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\bin\Debug\net7.0\05Construtores.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\bin\Debug\net7.0\05Construtores.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\bin\Debug\net7.0\05Construtores.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\bin\Debug\net7.0\05Construtores.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\refint\05Construtores.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\ref\05Construtores.dll

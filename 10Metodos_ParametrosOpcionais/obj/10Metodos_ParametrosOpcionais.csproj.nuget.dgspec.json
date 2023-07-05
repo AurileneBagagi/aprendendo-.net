@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
         "projectName": "10Metodos_ParametrosOpcionais",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\10Metodos_ParametrosOpcionais.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\10Metodos_ParametrosOpcionais\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

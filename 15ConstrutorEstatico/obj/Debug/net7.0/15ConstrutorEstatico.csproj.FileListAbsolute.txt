@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\bin\Debug\net7.0\15ConstrutorEstatico.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\bin\Debug\net7.0\15ConstrutorEstatico.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\bin\Debug\net7.0\15ConstrutorEstatico.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\bin\Debug\net7.0\15ConstrutorEstatico.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\bin\Debug\net7.0\15ConstrutorEstatico.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\refint\15ConstrutorEstatico.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\15ConstrutorEstatico.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\15ConstrutorEstatico\obj\Debug\net7.0\ref\15ConstrutorEstatico.dll

@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\bin\Debug\net7.0\11PassandoArgumentosPorValor.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\refint\11PassandoArgumentosPorValor.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\11PassandoArgumentosPorValor.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11PassandoArgumentosPorValor\obj\Debug\net7.0\ref\11PassandoArgumentosPorValor.dll

@@ -1,8 +1,8 @@
 ﻿Console.WriteLine("## Métodos ##\n");
 
-MinhaClasse minhaClasse = new MinhaClasse();
+MinhaClasse minhaClasse = new MinhaClasse(); //poderia ter fornecido o valores diretamente nos parametros
 
-var nomeCliente = "Maria";
+var nomeCliente = "Aurilene";
 var dataAtual = DateTime.Now.ToShortDateString();
 
 //valores dos argumentos

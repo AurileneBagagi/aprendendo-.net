@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\bin\Debug\net7.0\03MetodosParametros.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\bin\Debug\net7.0\03MetodosParametros.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\bin\Debug\net7.0\03MetodosParametros.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\bin\Debug\net7.0\03MetodosParametros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\bin\Debug\net7.0\03MetodosParametros.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\refint\03MetodosParametros.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\03MetodosParametros.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\3MetodosParametros\obj\Debug\net7.0\ref\03MetodosParametros.dll

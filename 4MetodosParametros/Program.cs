@@ -1,7 +1,7 @@
-﻿Console.WriteLine("## Métodos - Parâmetros  ##\n");
+﻿Console.WriteLine("## Métodos - Parâmetro Objetos (atribuições) ##\n");
 
-Aluno aluno = new();
-aluno.Consultar();
+Aluno al = new();
+al.Consultar();
 
 Console.ReadKey();
 
@@ -14,7 +14,7 @@ public class Aluno
 
     public void Consultar()
     {
-        var aluno = new Aluno();
+        var aluno = new Aluno(); //não precisa ter o mesmo nome do objeto que chama;
 
         Console.WriteLine("Nome : ");
         aluno.Nome = Console.ReadLine();
@@ -32,10 +32,10 @@ public class Aluno
 
 public class Curso
 {
-    public void Resultado(Aluno aluno)
+    public void Resultado(Aluno al)//recebe como parametro um objeto
     {
-        Console.WriteLine($"\nO aluno {aluno.Nome}, sexo {aluno.Sexo} com {aluno.Idade} anos");
-        if(aluno.Aprovado == "S")
+        Console.WriteLine($"\nO aluno {al.Nome}, sexo {al.Sexo} com {al.Idade} anos");
+        if(al.Aprovado == "S")
             Console.WriteLine("\n foi Aprovado");
         else
             Console.WriteLine("\n foi Reprovado");

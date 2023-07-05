@@ -1,0 +1,5 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\5Construtores\obj\Debug\net7.0\05Construtores.csproj.CoreCompileInputs.cache

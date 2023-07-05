@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\ClassesMetodos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\refint\ClassesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ClassesMetodos.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ref\ClassesMetodos.dll

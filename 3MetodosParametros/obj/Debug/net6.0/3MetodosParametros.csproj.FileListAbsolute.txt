@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\bin\Debug\net6.0\3MetodosParametros.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\bin\Debug\net6.0\3MetodosParametros.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\bin\Debug\net6.0\3MetodosParametros.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\bin\Debug\net6.0\3MetodosParametros.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\bin\Debug\net6.0\3MetodosParametros.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\refint\3MetodosParametros.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\3MetodosParametros.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\3MetodosParametros\obj\Debug\net6.0\ref\3MetodosParametros.dll

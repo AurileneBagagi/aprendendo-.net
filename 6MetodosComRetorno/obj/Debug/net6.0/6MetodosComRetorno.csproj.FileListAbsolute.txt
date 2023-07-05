@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\bin\Debug\net6.0\6MetodosComRetorno.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\bin\Debug\net6.0\6MetodosComRetorno.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\bin\Debug\net6.0\6MetodosComRetorno.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\bin\Debug\net6.0\6MetodosComRetorno.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\bin\Debug\net6.0\6MetodosComRetorno.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\refint\6MetodosComRetorno.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\6MetodosComRetorno.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\6MetodosComRetorno\obj\Debug\net6.0\ref\6MetodosComRetorno.dll

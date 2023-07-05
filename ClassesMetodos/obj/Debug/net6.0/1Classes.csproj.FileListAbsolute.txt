@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\1Classes.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\1Classes.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\1Classes.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\1Classes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\bin\Debug\net6.0\1Classes.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\refint\1Classes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\1Classes.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\ClassesMetodos\obj\Debug\net6.0\ref\1Classes.dll

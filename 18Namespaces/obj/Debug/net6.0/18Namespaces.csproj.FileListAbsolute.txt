@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\bin\Debug\net6.0\18Namespaces.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\bin\Debug\net6.0\18Namespaces.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\bin\Debug\net6.0\18Namespaces.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\bin\Debug\net6.0\18Namespaces.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\bin\Debug\net6.0\18Namespaces.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\refint\18Namespaces.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\18Namespaces.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\18Namespaces\obj\Debug\net6.0\ref\18Namespaces.dll

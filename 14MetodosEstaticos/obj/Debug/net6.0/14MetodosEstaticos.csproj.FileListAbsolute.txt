@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\bin\Debug\net6.0\14MetodosEstaticos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\refint\14MetodosEstaticos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\14MetodosEstaticos.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\14MetodosEstaticos\obj\Debug\net6.0\ref\14MetodosEstaticos.dll

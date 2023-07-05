@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\bin\Debug\net6.0\16Propriedades.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\bin\Debug\net6.0\16Propriedades.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\bin\Debug\net6.0\16Propriedades.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\bin\Debug\net6.0\16Propriedades.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\bin\Debug\net6.0\16Propriedades.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\refint\16Propriedades.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\16Propriedades.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\4_Classes_Metodos\ClassesMetodos\16Propriedades\obj\Debug\net6.0\ref\16Propriedades.dll

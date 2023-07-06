@@ -5,6 +5,7 @@ double raio = Convert.ToDouble(Console.ReadLine());
 
 Circulo circulo = new();
 
+// ele vai ser algo como resposta segundaria. 
 double perimetro = circulo.CalculaAreaPerimetro(raio, out double area);
 
 Console.WriteLine("Perímetro da Circunferencia " + perimetro);

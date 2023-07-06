@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\bin\Debug\net7.0\exercicios9.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\bin\Debug\net7.0\exercicios9.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\bin\Debug\net7.0\exercicios9.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\bin\Debug\net7.0\exercicios9.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\bin\Debug\net7.0\exercicios9.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\refint\exercicios9.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\exercicios9.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios9\obj\Debug\net7.0\ref\exercicios9.dll

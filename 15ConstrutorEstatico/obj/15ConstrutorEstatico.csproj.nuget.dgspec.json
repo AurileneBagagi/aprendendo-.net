@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj",
         "projectName": "15ConstrutorEstatico",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\15ConstrutorEstatico.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\15ConstrutorEstatico\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -22,6 +22,8 @@ public class Cliente
         Idade = idade;
         Renda = renda;
     }
+    // sobrecarga de construtores
+    //Obs.: o construtor vazio pode ser criado para instanciar um objeto usando a sintaxe padrão; 
     public Cliente()
     { }
 }

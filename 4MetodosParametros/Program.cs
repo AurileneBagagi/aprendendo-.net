@@ -32,7 +32,7 @@ public class Aluno
 
 public class Curso
 {
-    public void Resultado(Aluno al)//recebe como parametro um objeto
+    public void Resultado(Aluno al)//recebe como parametro um objeto qualquer, o nome aqui não precisa ser o mesmo do objeto, é apenas para manipular o objeto
     {
         Console.WriteLine($"\nO aluno {al.Nome}, sexo {al.Sexo} com {al.Idade} anos");
         if(al.Aprovado == "S")

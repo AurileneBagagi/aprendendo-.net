@@ -1,5 +1,6 @@
 ﻿Console.WriteLine("## Construtores ##\n");
 
+//so aceita os valores assim se houver um construtor
 Aluno aluno = new Aluno("Maria",22,"feminino","S");
 
 //verificando os valores padrões ou posto ao intanciar um objeto.

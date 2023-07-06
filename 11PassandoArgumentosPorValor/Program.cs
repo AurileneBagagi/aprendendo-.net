@@ -1,4 +1,5 @@
 ﻿Console.WriteLine("## Passando argumentos por valor ##\n");
+// o metodo tem acesso a cópia, modifca a cópia e depois ela é excluida ao fim do método
 
 int x = 20;
 

@@ -1,4 +1,4 @@
-﻿Console.WriteLine("Respontas equivalente ao exercicio 5 de Classes e Metodo");
+﻿Console.WriteLine("Respontas equivalente ao exercicio 6 de Classes e Metodo");
 
 Carros chevrolet = new("Sedan","Chevrolet","Onix",2016,110);
 Console.WriteLine("------------Chevrolet----------------");

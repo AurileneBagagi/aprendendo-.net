@@ -14,7 +14,7 @@ Console.ReadKey();
 public class Produto
 {
     private string? nome;
-    public string? Nome 
+    public string Nome 
     {
         get { return nome.ToUpper(); }
         set { nome = value; }

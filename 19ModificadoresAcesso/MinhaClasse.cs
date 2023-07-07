@@ -8,7 +8,7 @@ namespace _19ModificadoresAcesso;
 
 internal class MinhaClasse
 {
-    int MeuCampo;
+    int MeuCampo; //privado, os valores só são permitido acesso no mesmo arquivo
 
     string? MinhaPropriedade { get; set; }  
 

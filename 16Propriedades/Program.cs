@@ -55,5 +55,5 @@ public class Produto
     {
         Console.WriteLine($"{Nome} \n{Preco.ToString("c")} \n{Desconto}" +
                           $" \n{PrecoFinal.ToString("c")} \n{minimo}");
-    }
+    } //para visualizar o EstoqueMinimo teve que chamar a propriedade privada
 }

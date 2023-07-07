@@ -1,4 +1,4 @@
-﻿namespace _18Enumeration;
+﻿namespace _18Enumeration; // o _ é para permitir a numeração do nome do arquivo;
 
 enum Categorias
 {

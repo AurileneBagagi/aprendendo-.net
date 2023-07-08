@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\bin\Debug\net7.0\2ArrayBidimensional.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\bin\Debug\net7.0\2ArrayBidimensional.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\bin\Debug\net7.0\2ArrayBidimensional.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\bin\Debug\net7.0\2ArrayBidimensional.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\bin\Debug\net7.0\2ArrayBidimensional.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\refint\2ArrayBidimensional.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\2ArrayBidimensional.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\2ArrayBidimensional\obj\Debug\net7.0\ref\2ArrayBidimensional.dll

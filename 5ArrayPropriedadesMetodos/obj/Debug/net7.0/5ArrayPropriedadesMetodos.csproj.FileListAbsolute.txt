@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\bin\Debug\net7.0\5ArrayPropriedadesMetodos.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\bin\Debug\net7.0\5ArrayPropriedadesMetodos.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\bin\Debug\net7.0\5ArrayPropriedadesMetodos.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\bin\Debug\net7.0\5ArrayPropriedadesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\bin\Debug\net7.0\5ArrayPropriedadesMetodos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\refint\5ArrayPropriedadesMetodos.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\5ArrayPropriedadesMetodos.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\5ArrayPropriedadesMetodos\obj\Debug\net7.0\ref\5ArrayPropriedadesMetodos.dll

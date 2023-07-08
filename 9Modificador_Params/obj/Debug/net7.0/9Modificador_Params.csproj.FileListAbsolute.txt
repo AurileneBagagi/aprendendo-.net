@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\bin\Debug\net7.0\9Modificador_Params.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\bin\Debug\net7.0\9Modificador_Params.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\bin\Debug\net7.0\9Modificador_Params.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\bin\Debug\net7.0\9Modificador_Params.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\bin\Debug\net7.0\9Modificador_Params.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\refint\9Modificador_Params.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\9Modificador_Params.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\5_Colecoes\Colecoes\9Modificador_Params\obj\Debug\net7.0\ref\9Modificador_Params.dll

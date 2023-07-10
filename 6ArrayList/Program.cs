@@ -1,5 +1,5 @@
-﻿
-using System.Collections;
+﻿// a capacidade padrão inicial é 4, e vai aumentando em dobro, se não especificada anteriormente.
+using System.Collections; // o array list está em System.Collections
 
 var lista = new ArrayList() { "Maria", "Ana", "Zilda", "Carlos", "Diná" };
 

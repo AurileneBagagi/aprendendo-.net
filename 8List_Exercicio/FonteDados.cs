@@ -8,11 +8,16 @@ namespace _8List_Exercicio;
 
 public class FonteDados
 {
+    //retorna uma lista de objetos da classe aluno
     public static List<Aluno> GetAlunos()
     {
         List<Aluno> alunos = new()
         {
-            new Aluno() { Nome ="Maria", Nota=8.75},
+            new Aluno() 
+            { //é possivel definir propriedades dessa forma. 
+                Nome ="Maria", 
+                Nota=8.75
+            },
             new Aluno() { Nome = "Manoel", Nota=6.95},
             new Aluno() { Nome = "Amanda",  Nota = 7.25 },
             new Aluno() { Nome = "Carlos",  Nota = 6.55 },

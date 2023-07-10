@@ -45,6 +45,6 @@ static void ExibirAlunos(List<Aluno> alunos)
     }
 
     var mediaNotas = somaNotas / alunos.Count();
-    Console.WriteLine($"\nMédia das notas : {Math.Round(mediaNotas, 2)}");
+    Console.WriteLine($"\nMédia das notas : {Math.Round(mediaNotas, 2)}"); // o round é para arredondar;
     Console.WriteLine($"\nTotal de alunos : {alunos.Count()}");
 }

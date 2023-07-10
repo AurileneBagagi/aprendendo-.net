@@ -17,6 +17,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "instrucaoGoto", "instrucaoG
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "rascunhos", "rascunhos\rascunhos.csproj", "{59C72649-F01A-4CD5-A612-3BD8D00B2CFA}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Random", "Random\Random.csproj", "{0FF1AA66-6B26-4978-9791-8983099ED7CB}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -114,5 +116,17 @@ Global
 		{59C72649-F01A-4CD5-A612-3BD8D00B2CFA}.Release|x64.Build.0 = Release|Any CPU
 		{59C72649-F01A-4CD5-A612-3BD8D00B2CFA}.Release|x86.ActiveCfg = Release|Any CPU
 		{59C72649-F01A-4CD5-A612-3BD8D00B2CFA}.Release|x86.Build.0 = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|x64.Build.0 = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Debug|x86.Build.0 = Debug|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|Any CPU.Build.0 = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|x64.ActiveCfg = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|x64.Build.0 = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|x86.ActiveCfg = Release|Any CPU
+		{0FF1AA66-6B26-4978-9791-8983099ED7CB}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

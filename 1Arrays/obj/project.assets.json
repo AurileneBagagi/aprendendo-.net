@@ -8,32 +8,24 @@
     "net7.0": []
   },
   "packageFolders": {
-    "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\": {},
-    "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages": {}
+    "C:\\Users\\auril\\.nuget\\packages\\": {}
   },
   "project": {
     "version": "1.0.0",
     "restore": {
-      "projectUniqueName": "D:\\_Cursos_Macoratti\\_Curso_CSharp_2022\\5_Array_ArrayList_List\\Array_ArrayList\\1Arrays\\1Arrays.csproj",
+      "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\1Arrays\\1Arrays.csproj",
       "projectName": "1Arrays",
-      "projectPath": "D:\\_Cursos_Macoratti\\_Curso_CSharp_2022\\5_Array_ArrayList_List\\Array_ArrayList\\1Arrays\\1Arrays.csproj",
-      "packagesPath": "C:\\Users\\Jose C. Macoratti\\.nuget\\packages\\",
-      "outputPath": "D:\\_Cursos_Macoratti\\_Curso_CSharp_2022\\5_Array_ArrayList_List\\Array_ArrayList\\1Arrays\\obj\\",
+      "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\1Arrays\\1Arrays.csproj",
+      "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\1Arrays\\obj\\",
       "projectStyle": "PackageReference",
-      "fallbackFolders": [
-        "D:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"
-      ],
       "configFilePaths": [
-        "C:\\Users\\Jose C. Macoratti\\AppData\\Roaming\\NuGet\\NuGet.Config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.FallbackLocation.config",
-        "C:\\Program Files (x86)\\NuGet\\Config\\Microsoft.VisualStudio.Offline.config"
+        "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"
       ],
       "originalTargetFrameworks": [
         "net7.0"
       ],
       "sources": {
-        "C:\\Program Files (x86)\\Microsoft SDKs\\NuGetPackages\\": {},
-        "C:\\Program Files\\dotnet\\library-packs": {},
         "https://api.nuget.org/v3/index.json": {}
       },
       "frameworks": {
@@ -67,7 +59,7 @@
             "privateAssets": "all"
           }
         },
-        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.202\\RuntimeIdentifierGraph.json"
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
       }
     }
   }

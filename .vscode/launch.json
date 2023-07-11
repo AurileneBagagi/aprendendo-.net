@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/exercicios10/bin/Debug/net7.0/exercicios10.dll",
+            "program": "${workspaceFolder}/colecoes/bin/Debug/net7.0/colecoes.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/exerciciosfase3",
+            "cwd": "${workspaceFolder}/colecoes",
             "console": "internalConsole",
             "stopAtEntry": false
         },

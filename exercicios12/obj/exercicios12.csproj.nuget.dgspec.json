@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj",
         "projectName": "exercicios12",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\exercicios12.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\exercicios12\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

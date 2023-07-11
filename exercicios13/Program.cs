@@ -1,12 +1,4 @@
 ﻿using exercicios13;
-
-Console.WriteLine(" ### Respontas equivalentes ao exercicio 9 de Classes e Metodo ### ");
-Carros chevrolet = new("Sedan","Chevrolet","Onix",2016,110, cor);
-
-
-
-
-/*
 Console.WriteLine("-----Lista de Cores -----");
 Console.WriteLine($"{Cores.Branco} - {(int)Cores.Branco}");
 Console.WriteLine($"{Cores.Vermelho} - {(int)Cores.Vermelho}");
@@ -16,6 +8,10 @@ Console.WriteLine($"{Cores.Prata} - {(int)Cores.Prata}");
 Console.WriteLine($"{Cores.Azul} - {(int)Cores.Azul}");
 Console.WriteLine("Defina a Cor escolhida");
 var cor = Convert.ToInt32(Console.ReadLine());
+Console.WriteLine(" ### Respontas equivalentes ao exercicio 9 de Classes e Metodo ### ");
+Carros chevrolet = new("Sedan","Chevrolet","Onix",2016,110, cor);
+
+/*
 Carros chevrolet = new("Sedan","Chevrolet","Onix",2016,110, cor);
 Console.WriteLine("------------Chevrolet----------------");
 chevrolet.ExibirInfo(modelo: chevrolet.Modelo, montadora: chevrolet.Montadora, marca: chevrolet.Marca, potencia: chevrolet.Potencia, ano: chevrolet.Ano, cor: chevrolet.Cor);

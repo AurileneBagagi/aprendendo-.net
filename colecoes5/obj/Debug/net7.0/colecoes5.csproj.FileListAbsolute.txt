@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\bin\Debug\net7.0\colecoes5.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\bin\Debug\net7.0\colecoes5.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\bin\Debug\net7.0\colecoes5.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\bin\Debug\net7.0\colecoes5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\bin\Debug\net7.0\colecoes5.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\refint\colecoes5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\colecoes5.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\colecoes5\obj\Debug\net7.0\ref\colecoes5.dll

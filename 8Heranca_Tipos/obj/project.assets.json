@@ -1,0 +1,89 @@
+{
+  "version": 3,
+  "targets": {
+    "net7.0": {
+      "7Heranca_Sealed/1.0.0": {
+        "type": "project",
+        "framework": ".NETCoreApp,Version=v7.0",
+        "compile": {
+          "bin/placeholder/7Heranca_Sealed.dll": {}
+        },
+        "runtime": {
+          "bin/placeholder/7Heranca_Sealed.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "7Heranca_Sealed/1.0.0": {
+      "type": "project",
+      "path": "../7Heranca_Sealed/7Heranca_Sealed.csproj",
+      "msbuildProject": "../7Heranca_Sealed/7Heranca_Sealed.csproj"
+    }
+  },
+  "projectFileDependencyGroups": {
+    "net7.0": [
+      "7Heranca_Sealed >= 1.0.0"
+    ]
+  },
+  "packageFolders": {
+    "C:\\Users\\auril\\.nuget\\packages\\": {}
+  },
+  "project": {
+    "version": "1.0.0",
+    "restore": {
+      "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8Heranca_Tipos\\8Heranca_Tipos.csproj",
+      "projectName": "8Heranca_Tipos",
+      "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8Heranca_Tipos\\8Heranca_Tipos.csproj",
+      "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
+      "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\8Heranca_Tipos\\obj\\",
+      "projectStyle": "PackageReference",
+      "configFilePaths": [
+        "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"
+      ],
+      "originalTargetFrameworks": [
+        "net7.0"
+      ],
+      "sources": {
+        "https://api.nuget.org/v3/index.json": {}
+      },
+      "frameworks": {
+        "net7.0": {
+          "targetAlias": "net7.0",
+          "projectReferences": {
+            "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\7Heranca_Sealed\\7Heranca_Sealed.csproj": {
+              "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\7Heranca_Sealed\\7Heranca_Sealed.csproj"
+            }
+          }
+        }
+      },
+      "warningProperties": {
+        "warnAsError": [
+          "NU1605"
+        ]
+      }
+    },
+    "frameworks": {
+      "net7.0": {
+        "targetAlias": "net7.0",
+        "imports": [
+          "net461",
+          "net462",
+          "net47",
+          "net471",
+          "net472",
+          "net48",
+          "net481"
+        ],
+        "assetTargetFallback": true,
+        "warn": true,
+        "frameworkReferences": {
+          "Microsoft.NETCore.App": {
+            "privateAssets": "all"
+          }
+        },
+        "runtimeIdentifierGraphPath": "C:\\Program Files\\dotnet\\sdk\\7.0.305\\RuntimeIdentifierGraph.json"
+      }
+    }
+  }
+}

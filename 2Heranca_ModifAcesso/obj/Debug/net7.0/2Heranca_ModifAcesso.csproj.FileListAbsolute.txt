@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\bin\Debug\net7.0\2Heranca_ModifAcesso.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\bin\Debug\net7.0\2Heranca_ModifAcesso.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\bin\Debug\net7.0\2Heranca_ModifAcesso.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\bin\Debug\net7.0\2Heranca_ModifAcesso.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\bin\Debug\net7.0\2Heranca_ModifAcesso.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\refint\2Heranca_ModifAcesso.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\2Heranca_ModifAcesso.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\2Heranca_ModifAcesso\obj\Debug\net7.0\ref\2Heranca_ModifAcesso.dll

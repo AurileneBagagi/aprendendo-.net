@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\bin\Debug\net7.0\16Agregacao.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\bin\Debug\net7.0\16Agregacao.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\bin\Debug\net7.0\16Agregacao.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\bin\Debug\net7.0\16Agregacao.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\bin\Debug\net7.0\16Agregacao.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\refint\16Agregacao.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\16Agregacao.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\16Agregacao\obj\Debug\net7.0\ref\16Agregacao.dll

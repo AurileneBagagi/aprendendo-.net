@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "3Heranca_Construtores/1.0.0": {
+        "runtime": {
+          "3Heranca_Construtores.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "3Heranca_Construtores/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

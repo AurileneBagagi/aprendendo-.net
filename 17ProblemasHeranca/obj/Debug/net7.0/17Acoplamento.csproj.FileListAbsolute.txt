@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\bin\Debug\net7.0\17Acoplamento.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\bin\Debug\net7.0\17Acoplamento.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\bin\Debug\net7.0\17Acoplamento.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\bin\Debug\net7.0\17Acoplamento.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\bin\Debug\net7.0\17Acoplamento.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\refint\17Acoplamento.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\17Acoplamento.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\17ProblemasHeranca\obj\Debug\net7.0\ref\17Acoplamento.dll

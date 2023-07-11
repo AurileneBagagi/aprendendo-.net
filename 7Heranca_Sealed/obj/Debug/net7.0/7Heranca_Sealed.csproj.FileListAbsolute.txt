@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\bin\Debug\net7.0\7Heranca_Sealed.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\refint\7Heranca_Sealed.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\7Heranca_Sealed.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\7Heranca_Sealed\obj\Debug\net7.0\ref\7Heranca_Sealed.dll

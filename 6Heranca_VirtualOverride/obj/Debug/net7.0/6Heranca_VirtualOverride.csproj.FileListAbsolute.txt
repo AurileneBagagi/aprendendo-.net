@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\bin\Debug\net7.0\6Heranca_VirtualOverride.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\refint\6Heranca_VirtualOverride.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\6Heranca_VirtualOverride.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\6_POO\1Heranca\6Heranca_VirtualOverride\obj\Debug\net7.0\ref\6Heranca_VirtualOverride.dll

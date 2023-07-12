@@ -43,6 +43,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colecoes7", "colecoes7\cole
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança1", "Herança1\Herança1.csproj", "{14F18044-E501-4CBA-9CF9-BB832099FFAE}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Interfaces", "Interfaces\Interfaces.csproj", "{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -296,5 +298,17 @@ Global
 		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x64.Build.0 = Release|Any CPU
 		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x86.ActiveCfg = Release|Any CPU
 		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x86.Build.0 = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|x64.Build.0 = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Debug|x86.Build.0 = Debug|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|x64.ActiveCfg = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|x64.Build.0 = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|x86.ActiveCfg = Release|Any CPU
+		{6539B1F3-924B-4BFF-98C5-FDA8AF64A9BE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

@@ -41,6 +41,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colecoes6", "colecoes6\cole
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "colecoes7", "colecoes7\colecoes7.csproj", "{621D1247-DDFF-473E-A6BE-7B964F12984E}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Herança1", "Herança1\Herança1.csproj", "{14F18044-E501-4CBA-9CF9-BB832099FFAE}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -282,5 +284,17 @@ Global
 		{621D1247-DDFF-473E-A6BE-7B964F12984E}.Release|x64.Build.0 = Release|Any CPU
 		{621D1247-DDFF-473E-A6BE-7B964F12984E}.Release|x86.ActiveCfg = Release|Any CPU
 		{621D1247-DDFF-473E-A6BE-7B964F12984E}.Release|x86.Build.0 = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|x64.Build.0 = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Debug|x86.Build.0 = Debug|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|Any CPU.Build.0 = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x64.ActiveCfg = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x64.Build.0 = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x86.ActiveCfg = Release|Any CPU
+		{14F18044-E501-4CBA-9CF9-BB832099FFAE}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

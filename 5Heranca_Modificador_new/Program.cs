@@ -10,7 +10,7 @@ class Pessoa
 {
     public string? Nome { get; set; }
 
-    public string Saudacao() => $"Oi, Eu sou o(a) {Nome}";
+    public string Saudacao() => $"Oi, Eu sou o(a) {Nome}"; //metodo com uso de lambda
 }
 
 class Aluno : Pessoa
@@ -19,4 +19,5 @@ class Aluno : Pessoa
 
     public new string Saudacao()
         => $"Oi, Eu sou o(a) {Nome} do curso de : {Curso}.";
+        //sem o new o override ocorre de forma intencional
 }

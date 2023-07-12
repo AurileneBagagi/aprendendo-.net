@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\bin\Debug\net7.0\6Heranca_OverrideVirtual.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\bin\Debug\net7.0\6Heranca_OverrideVirtual.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\bin\Debug\net7.0\6Heranca_OverrideVirtual.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\bin\Debug\net7.0\6Heranca_OverrideVirtual.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\bin\Debug\net7.0\6Heranca_OverrideVirtual.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\refint\6Heranca_OverrideVirtual.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\6Heranca_OverrideVirtual.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\6Heranca_OverrideVirtual\obj\Debug\net7.0\ref\6Heranca_OverrideVirtual.dll

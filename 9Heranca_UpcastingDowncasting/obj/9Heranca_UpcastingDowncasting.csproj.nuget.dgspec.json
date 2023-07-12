@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UpcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UPcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UpcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UPcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UpcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UPcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj",
         "projectName": "9Heranca_UpcastingDowncasting",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UpcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UPcastingDowncasting\\9Heranca_UpcastingDowncasting.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UpcastingDowncasting\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\9Heranca_UPcastingDowncasting\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

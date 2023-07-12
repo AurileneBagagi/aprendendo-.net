@@ -1,6 +1,6 @@
 ﻿namespace _9Heranca_UpcastingDowncasting;
 
-public class Forma
+public class Forma // classe geral
 {
     protected int xpos, ypos;
     

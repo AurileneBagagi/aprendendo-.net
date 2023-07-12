@@ -62,9 +62,10 @@ if (forma is Circulo)   //verifica se o downcast é possivel
 {
     Console.WriteLine("Converteu Forma para Circulo\n");
 
-    //((Circulo)forma).PintarCirculo();
-    var tipo = forma as Circulo;
-    tipo?.PintarCirculo();
+    //((Circulo)forma).PintarCirculo(); //fazendo um downcasting explicita
+    var tipo = forma as Circulo; //operador as
+    tipo?.PintarCirculo(); //null condicional (Elvis Operador): ao invez de retornar um excepcion ele retorna null
+    
 }
 else
 {

@@ -1,6 +1,6 @@
 ﻿namespace _9Heranca_UpcastingDowncasting;
 
-public class Circulo : Forma
+public class Circulo : Forma // classe especializada
 {
     public Circulo()
     {}

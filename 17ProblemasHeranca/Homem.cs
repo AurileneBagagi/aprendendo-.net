@@ -2,8 +2,8 @@
 
 public class Homem : Animal
 {
-    private readonly ComportamentoAndar _comportamentoAndar;
-    public Homem(ComportamentoAndar andar)
+    private readonly ComportamentoAndar _comportamentoAndar; // a propriedade é privada e somente leitura para não poder ser alterada após recever a instancia a instancia no momento
+    public Homem(ComportamentoAndar andar)//costrutor
     {
         _comportamentoAndar = andar;
     }

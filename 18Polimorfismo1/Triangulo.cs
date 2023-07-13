@@ -5,6 +5,6 @@ public class Triangulo : Figura
     public override void Desenhar()
     {
         Console.WriteLine("Desenhando um triangulo..");
-        base.Desenhar();
+        base.Desenhar(); //está fazendo uma chamada ao metodo desenhar da classe base
     }
 }

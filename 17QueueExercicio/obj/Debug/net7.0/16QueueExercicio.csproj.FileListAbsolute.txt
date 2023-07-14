@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\bin\Debug\net7.0\16QueueExercicio.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\bin\Debug\net7.0\16QueueExercicio.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\bin\Debug\net7.0\16QueueExercicio.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\bin\Debug\net7.0\16QueueExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\bin\Debug\net7.0\16QueueExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\refint\16QueueExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\16QueueExercicio.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\17QueueExercicio\obj\Debug\net7.0\ref\16QueueExercicio.dll

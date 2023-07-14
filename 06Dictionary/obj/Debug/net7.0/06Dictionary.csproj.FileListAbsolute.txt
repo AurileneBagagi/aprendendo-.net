@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\bin\Debug\net7.0\06Dictionary.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\bin\Debug\net7.0\06Dictionary.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\bin\Debug\net7.0\06Dictionary.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\bin\Debug\net7.0\06Dictionary.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\bin\Debug\net7.0\06Dictionary.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\refint\06Dictionary.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\06Dictionary.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\06Dictionary\obj\Debug\net7.0\ref\06Dictionary.dll

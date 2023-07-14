@@ -1,0 +1,23 @@
+{
+  "runtimeTarget": {
+    "name": ".NETCoreApp,Version=v7.0",
+    "signature": ""
+  },
+  "compilationOptions": {},
+  "targets": {
+    ".NETCoreApp,Version=v7.0": {
+      "062IEnumerable/1.0.0": {
+        "runtime": {
+          "062IEnumerable.dll": {}
+        }
+      }
+    }
+  },
+  "libraries": {
+    "062IEnumerable/1.0.0": {
+      "type": "project",
+      "serviceable": false,
+      "sha512": ""
+    }
+  }
+}

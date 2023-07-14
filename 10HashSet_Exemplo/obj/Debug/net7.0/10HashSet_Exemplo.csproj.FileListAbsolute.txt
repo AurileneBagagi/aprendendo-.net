@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\bin\Debug\net7.0\10HashSet_Exemplo.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\refint\10HashSet_Exemplo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\10HashSet_Exemplo.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\10HashSet_Exemplo\obj\Debug\net7.0\ref\10HashSet_Exemplo.dll

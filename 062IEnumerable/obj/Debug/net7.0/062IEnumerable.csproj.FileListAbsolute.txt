@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\bin\Debug\net7.0\062IEnumerable.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\refint\062IEnumerable.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\062IEnumerable.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\062IEnumerable\obj\Debug\net7.0\ref\062IEnumerable.dll

@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\bin\Debug\net7.0\16StackExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\refint\16StackExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\16StackExercicio.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\16StackExercicio\obj\Debug\net7.0\ref\16StackExercicio.dll

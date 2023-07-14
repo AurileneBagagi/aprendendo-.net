@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\bin\Debug\net7.0\14StackUndo.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\refint\14StackUndo.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\14StackUndo.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\7_Generics_Colecoes\Generics\14StackUndo\obj\Debug\net7.0\ref\14StackUndo.dll

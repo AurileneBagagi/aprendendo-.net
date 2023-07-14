@@ -1,23 +1,11 @@
-﻿A a = new A();
-B b = new B();
-A x;
-x = a;
-x.Exibir();
-x = b;
-x.Exibir(); 
+﻿using Heranca2;
+// --------------------------------------------
+Console.WriteLine("Exercicio2");
 
+Carro carro = new Carro(0);
 
-class B: A 
-{
-public override void Exibir() 
-{
-Console.WriteLine("B"); } 
-}
+Console.WriteLine("Digite o valor a abastecer no carro: ");
+int QuantidadeG = Convert.ToInt32(Console.ReadLine());
 
-class A
-{
-public virtual void Exibir() 
-{
-Console.WriteLine("A"); 
-} 
-}
+if (carro.Abastecer(QuantidadeG))
+    carro.Dirigir();

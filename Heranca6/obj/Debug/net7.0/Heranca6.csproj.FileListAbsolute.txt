@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\bin\Debug\net7.0\Heranca6.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\bin\Debug\net7.0\Heranca6.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\bin\Debug\net7.0\Heranca6.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\bin\Debug\net7.0\Heranca6.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\bin\Debug\net7.0\Heranca6.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\refint\Heranca6.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\Heranca6.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca6\obj\Debug\net7.0\ref\Heranca6.dll

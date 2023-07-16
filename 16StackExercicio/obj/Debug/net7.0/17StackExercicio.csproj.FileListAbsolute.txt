@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\bin\Debug\net7.0\17StackExercicio.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\bin\Debug\net7.0\17StackExercicio.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\bin\Debug\net7.0\17StackExercicio.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\bin\Debug\net7.0\17StackExercicio.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\bin\Debug\net7.0\17StackExercicio.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\refint\17StackExercicio.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\17StackExercicio.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\16StackExercicio\obj\Debug\net7.0\ref\17StackExercicio.dll

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj",
         "projectName": "18ReadOnlyCollection",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\18ReadOnlyCollection.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\18ReadOnlyCollection\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

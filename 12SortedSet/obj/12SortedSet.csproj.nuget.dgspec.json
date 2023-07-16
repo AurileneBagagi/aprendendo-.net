@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj",
         "projectName": "12SortedSet",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\12SortedSet.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12SortedSet\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

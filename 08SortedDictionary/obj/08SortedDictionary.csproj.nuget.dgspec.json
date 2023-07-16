@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj",
         "projectName": "08SortedDictionary",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\08SortedDictionary.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\08SortedDictionary\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

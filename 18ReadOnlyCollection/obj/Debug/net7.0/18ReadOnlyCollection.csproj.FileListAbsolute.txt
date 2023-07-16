@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\bin\Debug\net7.0\18ReadOnlyCollection.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\bin\Debug\net7.0\18ReadOnlyCollection.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\bin\Debug\net7.0\18ReadOnlyCollection.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\bin\Debug\net7.0\18ReadOnlyCollection.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\bin\Debug\net7.0\18ReadOnlyCollection.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\refint\18ReadOnlyCollection.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\18ReadOnlyCollection.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\18ReadOnlyCollection\obj\Debug\net7.0\ref\18ReadOnlyCollection.dll

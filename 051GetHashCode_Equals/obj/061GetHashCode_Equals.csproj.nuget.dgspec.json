@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj",
         "projectName": "061GetHashCode_Equals",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\061GetHashCode_Equals.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\051GetHashCode_Equals\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

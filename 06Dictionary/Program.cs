@@ -1,4 +1,5 @@
 ﻿
+// instanciando dicionario
 Dictionary<int,int> dic1 = new Dictionary<int,int>();
 var dic2 = new Dictionary<int,int>();
 dic2.Add(2, 100);
@@ -24,18 +25,18 @@ catch (Exception ex)
 }
 
 Console.WriteLine("\n-Usando o método TryAdd para a chave 3");
-var resultado = dic3.TryAdd(3, 333);
+var resultado = dic3.TryAdd(3, 333); //add se a chave não existir e retorna true
 Console.WriteLine("Elemento foi incluido ? " + resultado);
 
 Console.WriteLine("\n-Incluindo o elemento com chave 7 e valor 7000");
-if (!dic3.ContainsKey(7))
+if (!dic3.ContainsKey(7)) //se não exitir a chave
 {
     dic3.Add(7, 7000);
     Console.WriteLine(dic3[7]);
 }
 
 Console.WriteLine("\n-Usando ContainsValue");
-if (dic3.ContainsValue(7000))
+if (dic3.ContainsValue(7000)) // verifica se o valor existe
 {
     Console.WriteLine("O valor existe no Dicionário");
 }
@@ -46,7 +47,7 @@ else
 
 Console.WriteLine("\n-Alterando o valor do elemento com chave 7");
 Console.WriteLine("Valor atual do item " + dic3[7]);
-if (dic3.ContainsKey(7))
+if (dic3.ContainsKey(7))// verifica se a chave existe
 {
     dic3[7] = 7777;
     Console.WriteLine("Valor alterado do item " + dic3[7]);
@@ -66,7 +67,7 @@ catch (Exception ex)
 
 Console.WriteLine("\n-Usando TryGetValue() para a chave 5");
 
-if(dic3.TryGetValue(7,out int valor))
+if(dic3.TryGetValue(7,out int valor)) // o out retorna o valor
 {
     Console.WriteLine("Valor para a chave 7 = " + valor);
 }

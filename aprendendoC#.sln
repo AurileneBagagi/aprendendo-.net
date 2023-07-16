@@ -55,6 +55,8 @@ Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca5", "Heranca5\Heranc
 EndProject
 Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Heranca6", "Heranca6\Heranca6.csproj", "{09EDB227-C7FB-4A55-B511-C93367C8CE1B}"
 EndProject
+Project("{FAE04EC0-301F-11D3-BF4B-00C04F79EFBC}") = "Dictionary", "Dictionary\Dictionary.csproj", "{2BC89452-B272-47DC-9305-19338BB14E1A}"
+EndProject
 Global
 	GlobalSection(SolutionProperties) = preSolution
 		HideSolutionNode = FALSE
@@ -380,5 +382,17 @@ Global
 		{09EDB227-C7FB-4A55-B511-C93367C8CE1B}.Release|x64.Build.0 = Release|Any CPU
 		{09EDB227-C7FB-4A55-B511-C93367C8CE1B}.Release|x86.ActiveCfg = Release|Any CPU
 		{09EDB227-C7FB-4A55-B511-C93367C8CE1B}.Release|x86.Build.0 = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|x64.ActiveCfg = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|x64.Build.0 = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|x86.ActiveCfg = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Debug|x86.Build.0 = Debug|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|Any CPU.Build.0 = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|x64.ActiveCfg = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|x64.Build.0 = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|x86.ActiveCfg = Release|Any CPU
+		{2BC89452-B272-47DC-9305-19338BB14E1A}.Release|x86.Build.0 = Release|Any CPU
 	EndGlobalSection
 EndGlobal

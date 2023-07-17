@@ -11,7 +11,7 @@ editor.DigitarChar('c');
 editor.DigitarChar('q');
 
 Console.WriteLine("\nFazendo o Undo...\n");
-editor.Undo();
+editor.Undo(); //desfazendo a ultima alteração
 editor.Undo();
 
 Console.WriteLine("\nRedigitando...\n");
@@ -20,3 +20,4 @@ editor.DigitarChar('k');
 editor.DigitarChar('!');
 
 Console.ReadKey();
+

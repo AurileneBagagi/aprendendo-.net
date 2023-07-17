@@ -35,7 +35,11 @@ ExibirPilha(numeros);
 
 Console.ReadKey();
 
-static void ExibirPilha<T>(IEnumerable<T> numeros)
+static void ExibirPilha<T>(IEnumerable<T> numeros) //especificando te forma generica o IENUMERABLE pois não se preocupo com a coleção que eu estou recebendo aqui, porque qualquer coleção que implementar pode sr iterado
+
+//O termo "iterado" se refere ao ato de percorrer ou iterar(repetir) sobre uma sequência de elementos em um loop, geralmente aplicando uma determinada ação ou operação em cada elemento
+
+o número vai poder ser alterado.
 {
     Console.WriteLine();
     foreach (var item in numeros)

@@ -10,22 +10,23 @@ if (!timesSP.Contains("Corinthians"))
 }
 var resultado = timesBA.Remove("Juazeiro");
 
-if (timesSP.IsSubsetOf(timesMundiais))
+if (timesSP.IsSubsetOf(timesMundiais)) // antes de adicionar o corinthians essa afirmação seria verdadeira
 {
     Console.WriteLine("timesSP é um subconjunto de timesMundiais\n");
 }
 
-if (timesMundiais.IsSupersetOf(timesSP))
+if (timesMundiais.IsSupersetOf(timesSP))// antes de adicionar o corinthians essa afirmação seria verdadeira
 {
     Console.WriteLine("timesMundiais é um superconjunto de timesSP\n");
 }
 
-if (timesRJ.Overlaps(timesMundiais))
+if (timesRJ.Overlaps(timesMundiais)) //retorna true ou false, o intercepção retorna os valores
 {
     Console.WriteLine("Pelo menos um time do RJ tem título Mundial");
+    Console.WriteLine(timesRJ.Overlaps(timesMundiais));
 }
 
-if (!timesSP.SetEquals(timesRJ))
+if (!timesSP.SetEquals(timesRJ)) //verifica se todos os elementos são comuns
 {
     Console.WriteLine("\ntimesSP e timesRJ não contém os mesmos elementos");
 }
@@ -41,7 +42,7 @@ var todosTimes = new SortedSet<string>(timesSP);
 ExibirColecao(todosTimes);
 
 Console.WriteLine("\nInterseção de dois HashSet<T> : timesSP e timesMundiais");
-timesSP.IntersectWith(timesMundiais);
+timesSP.IntersectWith(timesMundiais); // valores em comum
 ExibirColecao(timesSP);
 
 Console.WriteLine("\nDiferenca de dois HashSet<T> : timesMundiais e timesSP");

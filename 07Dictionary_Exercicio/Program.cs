@@ -1,6 +1,7 @@
 ﻿Console.WriteLine("### Alunos e Notas ###\n");
 
-var alunos = new Dictionary<int, Aluno>()
+
+var alunos = new Dictionary<int, Aluno>() //objeto aluno
 {
     { 1, new Aluno("Maria",7) },
     { 2, new Aluno("Eric", 8) },
@@ -92,7 +93,7 @@ static void ExibirColecao(Dictionary<int, Aluno> alunos)
 
 
 
-public class Aluno
+public class Aluno // uma metododologia mais robusta para evitar que tenha repetições com chave do tipo string
 {
     public Aluno(string? nome, int nota)
     {

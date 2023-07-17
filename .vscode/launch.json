@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/colecoes/bin/Debug/net7.0/colecoes.dll",
+            "program": "${workspaceFolder}/Generics10/bin/Debug/net7.0/Generics10.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/colecoes",
+            "cwd": "${workspaceFolder}/Generics10",
             "console": "internalConsole",
             "stopAtEntry": false
         },

@@ -7,7 +7,7 @@ var exoPlanetas = new ReadOnlyCollection<ExoPlaneta>(ExoPlaneta.GetExoPlanetas()
 //exoPlanetas[0]= "Kepler-442b";
 //exoPlanetas[0] = new ExoPlaneta() { Nome = "Kepler-442b" };
 
-exoPlanetas[0].Nome = "Kepler-442b";
+exoPlanetas[0].Nome = "Kepler-442b"; // se for um tipo complexo é permitido a alteração
 
 Console.WriteLine("\nLista de exoplanetas : \n");
 foreach (var item in exoPlanetas)

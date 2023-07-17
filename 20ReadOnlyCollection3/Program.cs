@@ -1,14 +1,15 @@
 ﻿using System.Collections.ObjectModel;
 Console.ReadKey();
+// não peritir que haja alteração do ReadOnlyCollection por meio do tipo complexo
 public class GerenciaExoPlanetas
 {
-    private List<ExoPlaneta>? exoPlanetas = ExoPlaneta.GetExoPlanetas();
+    private List<ExoPlaneta>? exoPlanetas = ExoPlaneta.GetExoPlanetas(); //deixar a lista privada 
 
-    public ReadOnlyCollection<ExoPlaneta> ExoPlanetas
+    public ReadOnlyCollection<ExoPlaneta> ExoPlanetas //permitir somente leitura
     {
         get { return exoPlanetas.AsReadOnly(); }
     }
-    public void AdicionaPlaneta(ExoPlaneta planeta)
+    public void AdicionaPlaneta(ExoPlaneta planeta) //é a unica forma de adicionar
     {
         exoPlanetas.Add(planeta);
     }

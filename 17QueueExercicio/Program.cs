@@ -26,7 +26,7 @@ filaPedidos.Enqueue(new Pedido(601, 60.0));
 
 //localizar um pedido na fila
 int numeroPedido = 501;
-Pedido? pedidoLocalizado = filaPedidos.FirstOrDefault(p=> p.Numero == numeroPedido);
+Pedido? pedidoLocalizado = filaPedidos.FirstOrDefault(p=> p.Numero == numeroPedido); //LINQ
 
 if(pedidoLocalizado != null)
   Console.WriteLine($"Pedido {numeroPedido} localizado na fila, " +

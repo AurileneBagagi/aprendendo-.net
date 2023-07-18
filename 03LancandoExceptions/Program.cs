@@ -47,6 +47,7 @@ class C
 {
     public static void ProcessarC()
     {
-        throw new NotImplementedException("Método não implementado");
+        throw new NotImplementedException("Método não implementado"); //lançou/causou a exceção manualmente;
+        // Ela vai retornar para a excução anterior para ser tratadada, caso a anterior não tenha tratamento, vai atras da anterior a anterior. Esse ciclo de retornar a pilha (stack) irá continuar até encontrar o tratamento do erro, ou que a pilha chegue ao fim e exibirá uma mensagem de erro.
     }
 }

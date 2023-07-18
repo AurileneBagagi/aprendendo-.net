@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj",
         "projectName": "Generics8",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\Generics8.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Generics8\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

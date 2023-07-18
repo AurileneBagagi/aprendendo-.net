@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj",
         "projectName": "Herança1",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\Herança1.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Herança1\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj",
         "projectName": "Interfaces",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\Interfaces.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\Interfaces\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

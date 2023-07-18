@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\bin\Debug\net7.0\excecoes3.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\bin\Debug\net7.0\excecoes3.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\bin\Debug\net7.0\excecoes3.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\bin\Debug\net7.0\excecoes3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\bin\Debug\net7.0\excecoes3.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\refint\excecoes3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\excecoes3.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\excecoes3\obj\Debug\net7.0\ref\excecoes3.dll

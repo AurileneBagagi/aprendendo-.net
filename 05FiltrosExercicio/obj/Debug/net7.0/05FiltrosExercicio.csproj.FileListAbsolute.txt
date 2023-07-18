@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\bin\Debug\net7.0\05FiltrosExercicio.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\bin\Debug\net7.0\05FiltrosExercicio.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\bin\Debug\net7.0\05FiltrosExercicio.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\bin\Debug\net7.0\05FiltrosExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\bin\Debug\net7.0\05FiltrosExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\refint\05FiltrosExercicio.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\05FiltrosExercicio.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\05FiltrosExercicio\obj\Debug\net7.0\ref\05FiltrosExercicio.dll

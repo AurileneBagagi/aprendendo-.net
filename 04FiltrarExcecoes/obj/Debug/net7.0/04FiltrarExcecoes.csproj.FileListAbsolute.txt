@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\bin\Debug\net7.0\04FiltrarExcecoes.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\bin\Debug\net7.0\04FiltrarExcecoes.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\bin\Debug\net7.0\04FiltrarExcecoes.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\bin\Debug\net7.0\04FiltrarExcecoes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\bin\Debug\net7.0\04FiltrarExcecoes.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\refint\04FiltrarExcecoes.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\04FiltrarExcecoes.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\8_Tratamento_Erros\01TryCatchFinally\04FiltrarExcecoes\obj\Debug\net7.0\ref\04FiltrarExcecoes.dll

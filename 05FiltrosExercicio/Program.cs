@@ -11,16 +11,18 @@ try
     Console.WriteLine("\nAguarde...");
 
     HttpClient client = new HttpClient();
-    HttpResponseMessage response = client.GetAsync(url + "/"+ arquivo).Result;
+    //requisição get
+    HttpResponseMessage response = client.GetAsync(url + "/"+ arquivo).Result; // o getAsync é usado para passar a url, eviar a informação de forma assincrona.
+    // o metodo result é usado para aguardar resposta antes de continuar a execução 
 
-    if(response.IsSuccessStatusCode)
+    if(response.IsSuccessStatusCode) //indica se o request foi processado
     {
         Console.WriteLine("Acesso ao arquivo feito com sucesso");
         Console.WriteLine("Código de status : " + response.StatusCode);
     }
     else
     {
-        throw new HttpRequestException("Erro : " + response.StatusCode);
+        throw new HttpRequestException("Erro : " + (int)response.StatusCode); //lançando um erro convertendo a resposta para um int
     }
 }
 catch(HttpRequestException ex) when (ex.Message.Contains("404"))

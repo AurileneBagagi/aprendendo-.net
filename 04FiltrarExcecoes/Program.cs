@@ -10,7 +10,8 @@ try
     Console.WriteLine($"\n{dividendo} / {divisor} =  {resultado}\n");
     Console.ReadKey();
 }
-//catch (DivideByZeroException) when (DateTime.Now.DayOfWeek== DayOfWeek.Friday)
+//usar o if não é o mesmo que o whrsn pq o if vai ser executado depois que o catch for aceito para executar e o if só roda se o cach for executado ou vai fazer a catch errada ser executada
+//catch (DivideByZeroException) when (DateTime.Now.DayOfWeek== DayOfWeek.Friday) 
 //{
 //   Console.WriteLine("\nHoje é sexta-feira e não capturamos estas" +
 //         " exceções por motivos óbvios... \n\nSextouuuu\n\n");

@@ -5,11 +5,11 @@ var pedido = new Pedido();
 pedido.OnCriarPedido += Email.Enviar;
 pedido.OnCriarPedido += SMS.Enviar;
 
-pedido.CriarPedido("maria@email.com", "(11) 9854-5588");
+pedido.CriarPedido("maria@email.com", "(11) 9854-5588"); //passando os argumentos da class PedidoEventArgs
 
 Console.ReadKey();
 
-class PedidoEventArgs : EventArgs
+class PedidoEventArgs : EventArgs //criada para armazenar e passar os dados para os asinantes do evento  
 {
     public string? Email { get; set; }
     public string? Telefone { get; set; }

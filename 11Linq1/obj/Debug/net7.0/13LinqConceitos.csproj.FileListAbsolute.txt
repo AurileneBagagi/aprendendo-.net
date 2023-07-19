@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\bin\Debug\net7.0\13LinqConceitos.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\bin\Debug\net7.0\13LinqConceitos.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\bin\Debug\net7.0\13LinqConceitos.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\bin\Debug\net7.0\13LinqConceitos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\bin\Debug\net7.0\13LinqConceitos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\refint\13LinqConceitos.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\13LinqConceitos.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\11Linq1\obj\Debug\net7.0\ref\13LinqConceitos.dll

@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\bin\Debug\net7.0\16LINQAgrupamento1.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\bin\Debug\net7.0\16LINQAgrupamento1.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\bin\Debug\net7.0\16LINQAgrupamento1.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\bin\Debug\net7.0\16LINQAgrupamento1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\bin\Debug\net7.0\16LINQAgrupamento1.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\refint\16LINQAgrupamento1.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\16LINQAgrupamento1.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\14LINQAgrupamento1\obj\Debug\net7.0\ref\16LINQAgrupamento1.dll

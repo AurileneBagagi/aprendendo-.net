@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj": {}
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj": {}
   },
   "projects": {
-    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj": {
+    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
+        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
         "projectName": "04ExpressaoLambda",
-        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
+        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\04ExpressaoLambda.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\obj\\",
+        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\04ExpressaoLambda\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

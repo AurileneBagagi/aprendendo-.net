@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\bin\Debug\net7.0\12LINQConsultas1.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\refint\12LINQConsultas1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\12LINQConsultas1.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\12LINQConsultas1\obj\Debug\net7.0\ref\12LINQConsultas1.dll

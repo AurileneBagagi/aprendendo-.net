@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\bin\Debug\net7.0\01Delegates.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\bin\Debug\net7.0\01Delegates.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\bin\Debug\net7.0\01Delegates.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\bin\Debug\net7.0\01Delegates.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\bin\Debug\net7.0\01Delegates.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\refint\01Delegates.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\01Delegates.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\9_Delegates_Lambda_Linq\DelegatesLambdaLinq\01Delegates\obj\Debug\net7.0\ref\01Delegates.dll

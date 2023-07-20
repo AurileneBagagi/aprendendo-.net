@@ -9,9 +9,9 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/Generics10/bin/Debug/net7.0/Generics10.dll",
+            "program": "${workspaceFolder}/delegate7/bin/Debug/net7.0/delegate7.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/Generics10",
+            "cwd": "${workspaceFolder}/delegate7",
             "console": "internalConsole",
             "stopAtEntry": false
         },

@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj",
         "projectName": "05ExpressoesLambdaExercicio",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\05ExpressoesLambdaExercicio.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\05ExpressoesLambdaExercicio\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

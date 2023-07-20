@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj": {}
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj": {}
   },
   "projects": {
-    "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj": {
+    "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj",
+        "projectUniqueName": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj",
         "projectName": "12Eventos_EventHandler",
-        "projectPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj",
+        "projectPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\12Eventos_EventHandler.csproj",
         "packagesPath": "C:\\Users\\auril\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\obj\\",
+        "outputPath": "c:\\Users\\auril\\Documents\\developer\\github\\aprendendo-.net\\12Eventos_EventHandler\\obj\\",
         "projectStyle": "PackageReference",
         "configFilePaths": [
           "C:\\Users\\auril\\AppData\\Roaming\\NuGet\\NuGet.Config"

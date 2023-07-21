@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\bin\Debug\net7.0\ArquivosDiretorios.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\bin\Debug\net7.0\ArquivosDiretorios.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\bin\Debug\net7.0\ArquivosDiretorios.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\bin\Debug\net7.0\ArquivosDiretorios.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\bin\Debug\net7.0\ArquivosDiretorios.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\refint\ArquivosDiretorios.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ArquivosDiretorios.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\ArquivosDiretorios\obj\Debug\net7.0\ref\ArquivosDiretorios.dll

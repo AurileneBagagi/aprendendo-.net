@@ -1,0 +1,15 @@
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\bin\Debug\net7.0\06FileStream1.exe
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\bin\Debug\net7.0\06FileStream1.deps.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\bin\Debug\net7.0\06FileStream1.runtimeconfig.json
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\bin\Debug\net7.0\06FileStream1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\bin\Debug\net7.0\06FileStream1.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.csproj.AssemblyReference.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.GeneratedMSBuildEditorConfig.editorconfig
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.AssemblyInfoInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.AssemblyInfo.cs
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.csproj.CoreCompileInputs.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\refint\06FileStream1.dll
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.pdb
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\06FileStream1.genruntimeconfig.cache
+D:\_Cursos_Macoratti\_Curso_CSharp_2022\10_Tratando_Arquivos_IO\ArquivosDiretorios\06FileStream1\obj\Debug\net7.0\ref\06FileStream1.dll

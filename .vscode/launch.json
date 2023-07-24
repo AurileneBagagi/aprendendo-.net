@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/delegate7/bin/Debug/net7.0/delegate7.dll",
+            "program": "${workspaceFolder}/arquivos11/bin/Debug/net7.0/arquivos11.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/delegate7",
-            "console": "internalConsole",
+            "cwd": "${workspaceFolder}/arquivos11",
+            "console": "integratedTerminal",
             "stopAtEntry": false
         },
         {

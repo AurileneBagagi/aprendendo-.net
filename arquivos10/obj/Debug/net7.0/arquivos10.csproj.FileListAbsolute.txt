@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\bin\Debug\net7.0\arquivos10.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\bin\Debug\net7.0\arquivos10.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\bin\Debug\net7.0\arquivos10.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\bin\Debug\net7.0\arquivos10.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\bin\Debug\net7.0\arquivos10.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\refint\arquivos10.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\arquivos10.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\arquivos10\obj\Debug\net7.0\ref\arquivos10.dll

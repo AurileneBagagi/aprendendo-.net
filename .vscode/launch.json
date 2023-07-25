@@ -9,10 +9,10 @@
             "type": "coreclr",
             "request": "launch",
             "preLaunchTask": "build",
-            "program": "${workspaceFolder}/arquivos11/bin/Debug/net7.0/arquivos11.dll",
+            "program": "${workspaceFolder}/02TaskProgAssincrona/bin/Debug/net7.0/02TaskProgAssincrona.dll",
             "args": [],
-            "cwd": "${workspaceFolder}/arquivos11",
-            "console": "integratedTerminal",
+            "cwd": "${workspaceFolder}/02TaskProgAssincrona",
+            "console": "internalConsole",
             "stopAtEntry": false
         },
         {

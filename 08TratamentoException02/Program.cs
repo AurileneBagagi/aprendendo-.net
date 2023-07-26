@@ -22,7 +22,7 @@ static async Task LancaMultiplasExcecoesAsync()
     catch
     {
         Console.WriteLine("Ocorreram as seguintes exceções :-\n");
-        AggregateException TodasExceptions = tarefas.Exception;
+        AggregateException TodasExceptions = tarefas.Exception; //obtem as exceções internas e as armzena em Todas Exceptions que é uma instancia de AggregateException
 
         foreach (var ex in TodasExceptions.InnerExceptions)
         {

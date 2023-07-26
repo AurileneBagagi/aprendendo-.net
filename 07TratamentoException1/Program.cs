@@ -25,7 +25,7 @@ class TesteAsync
     {
         return Task.Run(() => {
             Task.Delay(2000);
-            throw new Exception("Minha Exception...");
+            throw new Exception("Minha Exception..."); //a exception deve ser tratada dentro do codigo assincrono
         });
     }
     public async void ChamaTarefaAsync()

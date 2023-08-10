@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\bin\Debug\net7.0\Heranca5.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\bin\Debug\net7.0\Heranca5.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\bin\Debug\net7.0\Heranca5.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\bin\Debug\net7.0\Heranca5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\bin\Debug\net7.0\Heranca5.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\refint\Heranca5.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\Heranca5.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Heranca5\obj\Debug\net7.0\ref\Heranca5.dll

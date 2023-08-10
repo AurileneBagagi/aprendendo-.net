@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\bin\Debug\net7.0\delegate3.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\bin\Debug\net7.0\delegate3.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\bin\Debug\net7.0\delegate3.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\bin\Debug\net7.0\delegate3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\bin\Debug\net7.0\delegate3.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\refint\delegate3.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\delegate3.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\delegate3\obj\Debug\net7.0\ref\delegate3.dll

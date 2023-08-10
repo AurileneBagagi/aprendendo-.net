@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\bin\Debug\net7.0\exercicios4.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\bin\Debug\net7.0\exercicios4.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\bin\Debug\net7.0\exercicios4.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\bin\Debug\net7.0\exercicios4.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\bin\Debug\net7.0\exercicios4.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\refint\exercicios4.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\exercicios4.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\exercicios4\obj\Debug\net7.0\ref\exercicios4.dll

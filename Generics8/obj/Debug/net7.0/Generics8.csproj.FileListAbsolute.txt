@@ -1,0 +1,15 @@
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\bin\Debug\net7.0\Generics8.exe
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\bin\Debug\net7.0\Generics8.deps.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\bin\Debug\net7.0\Generics8.runtimeconfig.json
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\bin\Debug\net7.0\Generics8.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\bin\Debug\net7.0\Generics8.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.csproj.AssemblyReference.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.AssemblyInfoInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.AssemblyInfo.cs
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.csproj.CoreCompileInputs.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\refint\Generics8.dll
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.pdb
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\Generics8.genruntimeconfig.cache
+C:\Users\auril\Documents\developer\github\aprendendo-.net\Generics8\obj\Debug\net7.0\ref\Generics8.dll
